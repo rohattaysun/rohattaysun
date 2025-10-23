@@ -5,7 +5,7 @@ Hi there I am Rohat Taysun 👋
 - 👯 I’m looking to collaborate on Data-driven projects
 - 🤔 I’m looking for help with training a ML model 
 - 💬 Ask me about anything!
-- 📫 How to reach me: linkedin.com/in/rohat-taysun-8272361b2/
+- 📫 How to reach me: rtaysu01@student.bbk.ac.uk
 
 
 
