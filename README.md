@@ -1,3 +1,4 @@
+theme: jekyll/theme/minimal
 Hi there I am Rohat Taysun 👋
 
 - 🔭 I’m currently working on Predictive Models for Chronic Health Diseases
@@ -14,7 +15,8 @@ SKILLS
 •	Programming Languages: Python, JAVA, CSS & HTML
 •	Data Management: SQL, Microsoft Excel
 •	Data Analysis: PyCharm, Jupyter Notebook, MySQL Workbench, BlueJ
-•	Research & Data Analysis: Qualitative & quantitative research methods, survey and interview design, thematic analysis (learning), data cleaning & preprocessing
+•	Research & Data Analysis: Qualitative & quantitative research methods, survey and interview design, thematic 
+•   analysis (learning), data cleaning & preprocessing
 •	Data Visualization: Power BI, Tableau
 •	Statistical Analysis: Matplotlib, Pandas, SymPy, R skills
 •	Machine Learning: Learning the basics as a part of my studies currently 
@@ -68,3 +70,5 @@ Political Sciences | Istanbul State University
 2007 – 2009 | GPA: 3.69 
 • 	Studied the political landscape and developed strong analytical and research skills. 
 High School Diploma | Kemal Hasoglu High School 2002 – 2005 
+
+
